@@ -95,13 +95,6 @@
   <remove-project name="platform/frameworks/opt/net/wifi"/>
   <remove-project name="platform/frameworks/opt/telephony"/>
   <remove-project name="platform/frameworks/native"/>
-  <remove-project name="platform/hardware/google/apf"/>
-  <remove-project name="platform/hardware/google/av"/>
-  <remove-project name="platform/hardware/google/camera"/>
-  <remove-project name="platform/hardware/google/easel"/>
-  <remove-project name="platform/hardware/google/interfaces"/>
-  <remove-project name="platform/hardware/google/pixel"/>
-  <remove-project name="platform/hardware/google/pixel-sepolicy"/>
   <remove-project name="platform/hardware/interfaces"/>
   <remove-project name="platform/hardware/libhardware"/>
   <remove-project name="platform/packages/apps/Settings"/>
